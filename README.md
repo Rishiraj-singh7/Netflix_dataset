@@ -1,2 +1,1 @@
-# Netflix_dataset
-work on real dataset of netflix file 
+This repository contains a Jupyter Notebook focused on file processing techniques applied to Netflix-related data. It demonstrates data loading, cleaning, and analysis tasks, leveraging Python's powerful libraries to process and visualize Netflix dataset insights
